@@ -27,5 +27,22 @@
 * **RMSE** — оценка точности предсказания рейтинга (звезд).
 * **NDCG** — оценка качества ранжирования (правильность сортировки фильмов).
 
+![Демонстрация проекта](image.png)
 
-<img width="1864" height="831" alt="image" src="https://github.com/user-attachments/assets/06acfb7d-906e-4d6f-acb9-193b95009fec" />
+## Установка
+
+Подробная инструкция по установке и настройке проекта. Например:
+
+1. Клонируйте репозиторий:
+    ```bash
+    git clone https://github.com/i235gl1246o-19234776/RecSys-Movies
+    ```
+2. Установите необходимые зависимости:
+    ```bash
+    pip install streamlit
+    ```
+3. Запустите User Interface в терминале:
+   ```bash
+   streamlit run app.py
+    ```
+
