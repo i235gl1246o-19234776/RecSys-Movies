@@ -20,7 +20,7 @@
 * `catboost_ranker_model.pkl`
 * `inference_data.pkl`
 
-## 🛠 Стек технологий
+## Стек технологий
 `Python` • `Pandas` • `Scikit-learn` • `Surprise` • `CatBoost` • `SHAP` • `Matplotlib/Seaborn`
 
 ## Метрики оценки
